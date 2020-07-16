@@ -1,0 +1,13 @@
+{
+  "name": "shoppee_coin_collector",
+  "version": "0.0.1",
+  "description": "Coin collect automation using puppeteer",
+  "author": "Chayuth Vithitsoontorn <v_chayuth@hotmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^1.9.0"
+  }
+}
